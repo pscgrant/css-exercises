@@ -19,10 +19,15 @@
   font-weight: bold;
 } 
 
-.button {
+.cancel-button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-size: 20px;
+}
+
+.text {
+  color: green;
+  font-size: 22px;
 }
 
 .child {
@@ -30,7 +35,3 @@
   font-size: 14px;
 }
 
-div.text {
-  color: green;
-  font-size: 22px;
-}
