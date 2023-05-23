@@ -71,3 +71,8 @@ body, html {
   grid-column-start: 2;
   grid-column-end: 4;
 }
+
+.article {
+  grid-column-start: 2;
+  grid-column-end: 4;
+}
