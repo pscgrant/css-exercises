@@ -50,9 +50,15 @@ body, html {
   display: grid;
   gap: 15px;
   grid-template-columns: 500px 500px;
-  grid-template-rows: 500px 500px 500px 500px;
+  grid-template-rows: 150px 500px 500px 500px;
 }
 
+.header {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
 
 .sidebar{
   grid-column-start: 1;
