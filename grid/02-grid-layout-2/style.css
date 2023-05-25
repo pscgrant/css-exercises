@@ -19,6 +19,10 @@ body, html {
   border-radius: 15px;
 }
 
+.container {
+  display: grid;
+}
+
 .header {
   background-color: #FFDE22;
   grid-column: 1 / 3;
